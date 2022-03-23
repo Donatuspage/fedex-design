@@ -1,0 +1,49 @@
+.container-body{
+    height: 100vh;
+    display: inline-block;
+    width: 90%;
+    background-color: brown;
+    border: solid 10px yellow;
+    padding: 10px;
+   
+}
+.navbar{
+    display: flex;
+    height: 30px;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(167, 63, 135);
+    color: white;
+
+}
+.main-body{
+    display: flex;
+    justify-content: space-between;
+    height: 90vh;
+    margin-top: 10px;
+    background-color: yellowgreen;
+
+}
+.main-left{
+    display: inline-flex;
+    height: 80vh;
+    width: 70%;
+    margin-top: 3px;
+    justify-content: flex-start;   
+}
+.main-right{
+    display: flex;
+    text-align: center;
+    height: 20vh;
+    width: 90%;
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 20px;  
+    padding-bottom: 40px;
+}
+
+
+
+    
+
+
